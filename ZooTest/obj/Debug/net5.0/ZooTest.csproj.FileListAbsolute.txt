@@ -1,0 +1,5 @@
+G:\csharp\ZooApplication\ZooTest\obj\Debug\net5.0\ZooTest.csprojAssemblyReference.cache
+G:\csharp\ZooApplication\ZooTest\obj\Debug\net5.0\ZooTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\csharp\ZooApplication\ZooTest\obj\Debug\net5.0\ZooTest.AssemblyInfoInputs.cache
+G:\csharp\ZooApplication\ZooTest\obj\Debug\net5.0\ZooTest.AssemblyInfo.cs
+G:\csharp\ZooApplication\ZooTest\obj\Debug\net5.0\ZooTest.csproj.CoreCompileInputs.cache

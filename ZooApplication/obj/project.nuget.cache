@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9sSpYzy/eVgtJ3afFtWgCABbCjaCJHHmrHBCXr9khIRcOeqGehwFRJ3JTlAkINQ+QyZs7yNOXBEcARY2nlDKg==",
+  "success": true,
+  "projectFilePath": "G:\\csharp\\ZooApplication\\ZooApplication\\ZooApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chinnu\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512",
+    "C:\\Users\\Chinnu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
